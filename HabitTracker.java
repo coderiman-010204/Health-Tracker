@@ -2,7 +2,7 @@ import java.util.*;
 
 class Habit {
     String name;
-    boolean[] completion = new boolean[7]; // Days of the week
+    boolean[] completion = new boolean[7]; 
 
     Habit(String name) {
         this.name = name;
